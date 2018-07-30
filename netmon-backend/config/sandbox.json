@@ -1,7 +1,7 @@
 {
   "MONGODB": {
     "ADDRESS": "mongodb://127.0.0.1:27020/",
-    "DB_NAME": "MainNet",
+    "DB_NAME": "TelosTestNet",
     "AUTH_IS_REQUIRED": true,
     "AUTH_SOURCE": "admin",
     "USER": "",
